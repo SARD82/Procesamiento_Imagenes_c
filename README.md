@@ -68,6 +68,7 @@ Este proyecto fue realizado con fines educativos. Puedes reutilizar el código s
 ## 👥 Créditos
 
 Desarrollado por **Santiago Durán Rendón** – 2024.
+
 Estudiante de Ingeniería en Computación – UNAM.
 
 ---

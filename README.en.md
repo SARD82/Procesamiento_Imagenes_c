@@ -68,6 +68,7 @@ This project was created for educational purposes. You may reuse the code as lon
 ## 👥 Créditos
 
 Developed by **Santiago Durán Rendón** – 2024.
+
 Computer Engineering Student – UNAM.
 
 ---
