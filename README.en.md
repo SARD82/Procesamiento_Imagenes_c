@@ -65,7 +65,7 @@ gcc FINAL_p.c -o imagenes
 
 This project was created for educational purposes. You may reuse the code as long as you cite the source and do not use it for commercial purposes without permission.
 
-## 👥 Créditos
+## 👥 Credits
 
 Developed by **Santiago Durán Rendón** – 2024.
 
